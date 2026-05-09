@@ -1,0 +1,23 @@
+{
+  "user_id": "user_12345",
+  "name": "김OO",
+  "level": "B1",
+  "progress": {
+    "module_grammar": {
+      "status": "in_progress",
+      "completed": 15,
+      "total": 20,
+      "progress_percent": 75.0
+    },
+    "module_vocab": {
+      "status": "completed",
+      "completed": 3,
+      "total": 5,
+      "progress_percent": 100.0
+    }
+  },
+  "metadata": {
+    "last_updated": "2026-05-09T09:32:49",
+    "theme": "indigo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "user_id": "user_12345",
+  "study_history": [
+    {"module": "기초 문법", "status": "in_progress", "start_date": "2026-05-08"},
+    {"module": "단어 암기", "status": "completed", "start_date": "2026-05-07"}
+  ],
+  "settings": {
+    "theme": "indigo",
+    "language": "ko"
+  }
+}

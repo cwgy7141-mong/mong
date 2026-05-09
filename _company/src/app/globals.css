@@ -1,0 +1,20 @@
+/* Tailwind CSS 및 디자인 시스템 적용 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Typography and Color Palette based on established design system (assumed) */
+:root {
+  --color-primary: #4f46e5; /* Indigo 600 계열 */
+  --color-secondary: #6366f1; /* Indigo 500 계열 */
+  --color-background: #f9fafb; /* Gray 50 계열 */
+  --color-surface: #ffffff;
+}
+
+body {
+  font-family: 'Pretendard', sans-serif; /* 한국어 교육에 적합한 폰트 가정 */
+  background-color: var(--color-background);
+  color: #1f2937; /* Gray 800 계열 */
+}
+
+/* Tailwind classes will handle most styling, ensuring consistency with the defined palette. */
